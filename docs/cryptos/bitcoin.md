@@ -39,8 +39,8 @@ There are multiple address types supported.
 
 You can switch to a different address type by going to the `Receive` screen and clicking on the current address type at the top of the screen.
 
-[![Click current address type](./receive.png){:width="32%"}](./receive.png)
-[![Choose address type](./addresstypes.png){:width="32%"}](./addresstypes.png)
+![Click current address type](./bitcoin/receive.png){:width="32%"}
+![Choose address type](./bitcoin/addresstypes.png){:width="32%"}
 
 ## Seed format
 
@@ -64,8 +64,8 @@ As of Cake Wallet version `4.15.4`, the Bitcoin wallet supports using RBF (Repla
 
 RBF allows you to modify the fee after you have already sent a transaction. You can do this by going to the `Transactions` screen, clicking on the desired transaction, the clicking `Bump fee`. Once you are in the `Bump fee` page, you can set your fee and click `Send`.
 
-[![Click "Bump fee"](./rbf.png){:width="32%"}](./rbf.png)
-[![Modify fee](./rbf2.png){:width="32%"}](./rbf2.png)
+![Click "Bump fee"](./bitcoin/rbf.png){:width="32%"}
+![Modify fee](./bitcoin/rbf2.png){:width="32%"}
 
 ## Silent Payments
 
@@ -83,12 +83,12 @@ Silent Payment addresses start with `sp1`.
 
 In order to enable Silent Payments, tap the switch on the "Silent Payments" card to start scanning blocks for Silent Paymemnts.
 
-[![Toggle Silent Payments scanning](./silentpayments.png){:width="32%"}](./silentpayments.png)
+![Toggle Silent Payments scanning](./bitcoin/silentpayments.png){:width="32%"}
 
 The wallet will start scanning from the height of when you first opened it after installing 4.18.0 or higher, or continue where it left off. Silent Payments scanning will automnatically turn off once it has reached the current blockheight. If you would like it to automatically scan for Silent Payment transactions on new blocks, please toggle an option under Menu -> Silent Payments settings -> "Set Silent Payments always scanning" to on. Silent Payments scanning will automatically toggle on if there are new blocks to scan and toggle back off when it's finished.
 
-[![App menu](./menu.png){:width="32%"}](./menu.png)
-[![Toggle always scanning](./alwaysscan.png){:width="32%"}](./alwaysscan.png)
+![App menu](./bitcoin/menu.png){:width="32%"}
+![Toggle always scanning](./bitcoin/alwaysscan.png){:width="32%"}
 
 
 ### Receiving
