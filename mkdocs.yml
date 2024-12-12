@@ -133,7 +133,7 @@ nav:
       - get-started/android/fdroid.md
     - Linux:
       - get-started/linux/index.md
-      - get-startedd/linux/tails.md
+      - get-started/linux/tails.md
     - iOS / macOS: get-started/app-store.md
     - Windows: get-started/windows.md
 
