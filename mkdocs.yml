@@ -123,61 +123,61 @@ nav:
 - Home: index.md
 
 - Get Started:
-  - getting-started/index.md
+  - get-started/index.md
   - Install:
     - Android:
-      - getting-started/android/index.md
-      - getting-started/android/google-play.md
-      - getting-started/android/accrescent.md
-      - getting-started/android/obtanium.md
-      - getting-started/android/fdroid.md
+      - get-started/android/index.md
+      - get-started/android/google-play.md
+      - get-started/android/accrescent.md
+      - get-started/android/obtanium.md
+      - get-started/android/fdroid.md
     - Linux:
-      - getting-started/linux/index.md
-      - getting-started/linux/tails.md
-    - iOS / macOS: getting-started/app-store.md
-    - Windows: getting-started/windows.md
+      - get-started/linux/index.md
+      - get-startedd/linux/tails.md
+    - iOS / macOS: get-started/app-store.md
+    - Windows: get-started/windows.md
 
   - Setup:
-    - getting-started/setup/create-first-wallet.md
-    - getting-started/setup/create-another-wallet.md
+    - get-started/setup/create-first-wallet.md
+    - get-started/setup/create-another-wallet.md
   - Restore:
-    - getting-started/restore/restore-wallet-from-keys-or-seed.md
-    - getting-started/restore/restore-wallet-from-backup.md
-    - getting-started/restore/restore-wallet-from-qr-code.md
-    - getting-started/restore/restore-wallet-from-hardware.md
+    - get-started/restore/restore-wallet-from-keys-or-seed.md
+    - get-started/restore/restore-wallet-from-backup.md
+    - get-started/restore/restore-wallet-from-qr-code.md
+    - get-started/restore/restore-wallet-from-hardware.md
 
 - Cryptos:
-  - cryptocurrencies/index.md
-  - cryptocurrencies/monero.md
-  - cryptocurrencies/bitcoin.md
-  - cryptocurrencies/ethereum.md
-  - cryptocurrencies/litecoin.md
-  - cryptocurrencies/bitcoin-cash.md
-  - cryptocurrencies/polygon.md
-  - cryptocurrencies/solana.md
-  - cryptocurrencies/tron.md
-  - cryptocurrencies/nano.md
-  - cryptocurrencies/wownero.md
-  - cryptocurrencies/haven.md
+  - cryptos/index.md
+  - cryptos/monero.md
+  - cryptos/bitcoin.md
+  - cryptos/ethereum.md
+  - cryptos/litecoin.md
+  - cryptos/bitcoin-cash.md
+  - cryptos/polygon.md
+  - cryptos/solana.md
+  - cryptos/tron.md
+  - cryptos/nano.md
+  - cryptos/wownero.md
+  - cryptos/haven.md
 
 - Features:
   - features/index.md
   - Basic Features:
-    - basic-features/send-funds.md
-    - basic-features/receive-funds.md
-    - basic-features/exchange.md
-    - basic-features/create-backup.md
+    - features/basic/send-funds.md
+    - features/basic/receive-funds.md
+    - features/basic/exchange.md
+    - features/basic/create-backup.md
   - Advanced features:
-    - advanced-features/address-book.md
-    - advanced-features/authentication.md
-    - advanced-features/change-network-fee.md
-    - advanced-features/custom-node.md
-    - advanced-features/coin-control.md
-    - advanced-features/tor-with-orbot.md
-    - advanced-features/special-address-services.md
-    - advanced-features/seed-keys.md
-    - advanced-features/send-exchange-templates.md
-    - advanced-features/disable-features.md
+    - features/advanced/address-book.md
+    - features/advanced/authentication.md
+    - features/advanced/change-network-fee.md
+    - features/advanced/custom-node.md
+    - features/advanced/coin-control.md
+    - features/advanced/tor-with-orbot.md
+    - features/advanced/special-address-services.md
+    - features/advanced/seed-keys.md
+    - features/advanced/send-exchange-templates.md
+    - features/advanced/disable-features.md
 
 - Cake Pay:
   - cake-pay/index.md
