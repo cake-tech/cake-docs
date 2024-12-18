@@ -20,5 +20,5 @@ Cake Wallet is a non-custodial wallet for mobile and desktop devices. This means
 
 Here you can find answers to the most common questions about Cake Wallet. If you don't find an answer to your question, checkout our [support page](/support/index.html). Click `Get Started` below to walk through installing and setting up Cake Wallet!
 
-[:material-arrow-right: Get Started](/get-started/index.html){ .md-button }
-[:material-face-agent: Support](/support/index.html){ .md-button }
+[:material-arrow-right: Get Started](/get-started/index/){ .md-button }
+[:material-face-agent: Support](/support/index/){ .md-button }
