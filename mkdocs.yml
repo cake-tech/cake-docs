@@ -174,7 +174,7 @@ nav:
     - features/advanced/custom-node.md
     - features/advanced/coin-control.md
     - features/advanced/tor-with-orbot.md
-    - features/advanced/special-address-services.md
+    - features/advanced/address-lookup-services.md
     - features/advanced/seed-keys.md
     - features/advanced/send-exchange-templates.md
     - features/advanced/disable-features.md
