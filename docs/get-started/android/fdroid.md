@@ -13,4 +13,4 @@ status: deprecated
 
 If you would like to have a direct upgrade path *without* uninstalling Cake Wallet, you can do so by setting up [Obtanium](obtanium.md).
 
-Otherwise, we recommend using [Accrescent](accrescent.md) for a more reliable update experience. However, this *will* require backing up all seeds and wallets (See [backup](/basic-features/create-backup.html)) and uninstalling Cake Wallet, then re-installing from Accrescent.
+Otherwise, we recommend using [Accrescent](accrescent.md) for a more reliable update experience. However, this *will* require backing up all seeds and wallets (See [backup](/features/basic/create-backup/)) and uninstalling Cake Wallet, then re-installing from Accrescent.
