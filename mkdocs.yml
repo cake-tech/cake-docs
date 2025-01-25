@@ -187,6 +187,9 @@ nav:
 - Cupcake:
   - cupcake/index.md
   - cupcake/setup.md
+  - faq/zero-balance.md
+  - faq/funds-not-appearing.md
+  - faq/errors.md
 
 - FAQ:
   - faq/index.md
@@ -194,6 +197,11 @@ nav:
   - faq/zero-balance.md
   - faq/funds-not-appearing.md
   - faq/errors.md
+  - Glossary:
+    - faq/glossary/uri-scheme.md
+    - faq/glossary/transaction-id.md
+    - faq/glossary/trade-id.md
+    
 
 - Tutorials:
   - tutorials/index.md
