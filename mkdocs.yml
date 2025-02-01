@@ -187,9 +187,6 @@ nav:
 - Cupcake:
   - cupcake/index.md
   - cupcake/setup.md
-  - faq/zero-balance.md
-  - faq/funds-not-appearing.md
-  - faq/errors.md
 
 - FAQ:
   - faq/index.md
