@@ -6,7 +6,7 @@ parent: Basic Features
 # Restore wallet from hardware
 
 !!! note
-    Only Monero, Bitcoin, Ethereu, Litecoin, and Polygon currencies, and Ledger hardware wallet devices are supported.
+    Only Monero, Bitcoin, Ethereum, Litecoin, and Polygon currencies with Ledger hardware wallet devices are supported.
 
 ## Step 1
 
