@@ -19,6 +19,17 @@ To align incentives, block rewards are split between Proof-of-Work (PoW) miners,
 
 Cake Wallet uses a 15-word seed format for Decred wallets. When creating or restoring a wallet, you'll need to use this 15-word seed phrase.
 
+## Addresses
+
+Cake automatically generates a new Decred address after each use for better privacy. Previous addresses continue to work.
+
 ## SPV Sync
 
-The Decred wallet in Cake uses SPV (Simply Payment Verification) which maximizes privacy and data usage. It allows the wallet to only download blocks which it has transactions in. This will require more data usage and sycnhronization than Bitcoin, but less than similar coins like Monero. This also has much higher privacy than using using a light wallet implementation where the nodes check for your transactions.
+The Decred wallet in Cake uses SPV (Simply Payment Verification) which maximizes privacy and data usage. It allows the wallet to only download blocks which it has transactions in.
+
+SPV sync will require more data usage and sycnhronization than Bitcoin, but less than similar coins like Monero. This also has much higher privacy than using using a light wallet implementation where the nodes check for your transactions.
+
+For more detailed info on how SPV sync works, please refer to the official [Decred documentation](https://docs.decred.org/wallets/spv/).
+
+!!! warning
+    This may use lots of internet data on wallet creation. Make sure you are not on a metered network before starting.
