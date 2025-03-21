@@ -225,6 +225,7 @@ nav:
 
 # Plugins
 plugins:
+  - glightbox
   - search
   # - git-revision-date-localized:
   #     enable_creation_date: true
