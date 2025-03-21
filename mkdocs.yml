@@ -157,8 +157,9 @@ nav:
   - cryptos/solana.md
   - cryptos/tron.md
   - cryptos/nano.md
-  - cryptos/wownero.md
   - cryptos/zano.md
+  - cryptos/decred.md
+  - cryptos/wownero.md
   - cryptos/haven.md
 
 - Features:
@@ -225,6 +226,5 @@ nav:
 # Plugins
 plugins:
   - search
-  - glightbox
   # - git-revision-date-localized:
   #     enable_creation_date: true
