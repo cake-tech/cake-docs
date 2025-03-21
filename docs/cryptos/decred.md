@@ -29,7 +29,8 @@ The Decred wallet in Cake uses SPV (Simply Payment Verification) which maximizes
 
 SPV sync will require more data usage and sycnhronization than Bitcoin, but less than similar coins like Monero. This also has much higher privacy than using using a light wallet implementation where the nodes check for your transactions.
 
+!!! warning
+    SPV sync requires much more data than a light wallet, and will require an initial synchronization on wallet creation. This may use lots of internet data, so make sure you are not on a metered network before starting.
+
 For more detailed info on how SPV sync works, please refer to the official [Decred documentation](https://docs.decred.org/wallets/spv/).
 
-!!! warning
-    This may use lots of internet data on wallet creation. Make sure you are not on a metered network before starting.
