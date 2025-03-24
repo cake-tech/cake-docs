@@ -172,6 +172,7 @@ nav:
   - Advanced features:
     - features/advanced/address-book.md
     - features/advanced/authentication.md
+    - features/advanced/background-sync.md
     - features/advanced/change-network-fee.md
     - features/advanced/custom-node.md
     - features/advanced/coin-control.md
@@ -225,7 +226,7 @@ nav:
 
 # Plugins
 plugins:
-  - glightbox
   - search
+  - glightbox
   # - git-revision-date-localized:
   #     enable_creation_date: true
