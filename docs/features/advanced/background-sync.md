@@ -18,7 +18,7 @@ Enabling background sync will require enabling `Unrestricted background service`
 GrapheneOS sets an Android config option that prevents Cake Wallet from being able to run its background sync service, however this flag can be set to false to remedy this issue. We are working to fix this on the Cake Wallet side, but in the meantime you can change this config option to allow background sync to run.
 
 !!! warning
-    We will not provide support in regards to fixing background sync compatibility on GrapheneOS, and while the required command is 100% safe to use, we are not responsible for any loss of data or damage caused by modifying your phone over ADB. Please proceed at your own caution.
+    We will not provide support in regards to fixing background sync compatibility on GrapheneOS, and while the required command is 100% safe to use, we are not responsible for any loss of data or damage caused by modifying your phone over ADB. Please proceed at your own caution. Enabling ADB can open your device to some risk, so we highly recommend turning ADB off after running the command.
 
 ### Steps
 

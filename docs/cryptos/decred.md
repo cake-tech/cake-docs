@@ -9,6 +9,9 @@ parent: Cryptos
 !!! note ""
     Official Website: [decred.org](https://decred.org/){:target="_blank"}
 
+!!! warning
+    Due to how much data the Decred wallet requires, it will make your Cake wallet backup very large, and in some cases can cause the backup creation to fail.
+
 Decred `(DCR)` is a blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development. It utilizes a hybrid Proof-of-Work (PoW) and Proof-of-Stake (PoS) mining system to ensure that a small group cannot dominate the flow of transactions or make changes to Decred without the input of the community. A unit of the currency is called a decred (DCR).
 
 Stakeholders make and enforce the blockchain’s consensus rules, set a course for future development, and decide how the project’s treasury is used to fund it. Decred’s blockchain is similar to Bitcoin’s, but with major aspects of governance baked into the protocol.
