@@ -1,7 +1,7 @@
 !!! warning
     Background sync is currently only available on Android with Monero wallets. Background sync will also sync regardless of network condition or charging status, with more options to control this coming in the next version.
 
-Background sync will attempt to sync your wallets in the background at the specified interval. This can help keep your wallet up to date, and avoid the need for syncing lots of blocks when opening them. Background sync currently attemps to sync all Monero wallets.
+Background sync will attempt to sync your wallets in the background at the specified interval. This can help keep your wallet up to date, and avoid the need for syncing lots of blocks when opening them. Background sync currently attemps to sync all Monero wallets. Background sync for Monero only uses the private view key, which avoides keeping the private spend key in memory.
 
 In `Connection and sync` settings, you can enable or disable background syncing for your Monero wallets. By default this is disabled, and if enabled will background sync all Monero wallets.
 
@@ -13,7 +13,7 @@ There are three background sync options:
 
 Enabling background sync will require enabling `Unrestricted background service` and allowing the app to always run in the background.
 
-## Fixing background sync for GrapheneOS
+## Background sync on GrapheneOS
 
 GrapheneOS sets an Android config option that prevents Cake Wallet from being able to run its background sync service, however this flag can be set to false to remedy this issue. We are working to fix this on the Cake Wallet side, but in the meantime you can change this config option to allow background sync to run.
 
