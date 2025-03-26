@@ -167,7 +167,7 @@ nav:
   - Basic Features:
     - features/basic/send-funds.md
     - features/basic/receive-funds.md
-    - features/basic/exchange.md
+    - features/basic/swap.md
     - features/basic/create-backup.md
   - Advanced features:
     - features/advanced/address-book.md
