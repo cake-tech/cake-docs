@@ -30,10 +30,10 @@ Cake automatically generates a new Decred address after each use for better priv
 
 The Decred wallet in Cake uses SPV (Simply Payment Verification) which maximizes privacy and data usage. It allows the wallet to only download blocks which it has transactions in.
 
-SPV sync will require more data usage and sycnhronization than Bitcoin, but less than similar coins like Monero. This also has much higher privacy than using using a light wallet implementation where the nodes check for your transactions.
+SPV sync will require more data usage and time to sync than Bitcoin, but less than other coins like Monero. This also has much higher privacy assurances than using a light wallet implementation where the nodes check for your transactions.
 
 !!! warning
-    SPV sync requires much more data than a light wallet, and will require an initial synchronization on wallet creation. This may use lots of internet data, so make sure you are not on a metered network before starting.
+    SPV sync requires much more data than a light wallet, and will require an initial synchronization on wallet creation. This may use lots of data, so make sure you are not on a metered network before starting.
 
 For more detailed info on how SPV sync works, please refer to the official [Decred documentation](https://docs.decred.org/wallets/spv/).
 
