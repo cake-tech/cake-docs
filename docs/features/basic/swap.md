@@ -30,7 +30,7 @@ Cake will compose the transaction, show final screen with all details right befo
 
 [![Send](/images/exchange8.png){:width="32%"}](/images/exchange8.png)
 [![See trade under Transactions screen](/images/exchange9.png){:width="32%"}](/images/exchange9.png)
-[![See trade details and state](/images/exchange10.jpg){:width="32%"}](/images/exchange10.png) 
+[![See trade details and state](/images/exchange10.png){:width="32%"}](/images/exchange10.png) 
 
 
 ## You can watch our YouTube tutorials here:
