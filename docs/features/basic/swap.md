@@ -11,25 +11,26 @@ If you would like to swap cryptocurrencies, then you can use Cake Wallet's built
 
 Go to the balance screen and tap on the "Swap" button. Choose your desired currencies under "Convert from" and "Convert to", by tapping on the abbreviation with a dropdown arrow to the right.
 
-[![Click Swap icon on homescreen](/images/exchange1.jpg){:width="32%"}](/images/exchange1.jpg)
-[![Change "Convert from" and "Convert to" values](/images/exchange2.jpg){:width="32%"}](/images/exchange2.jpg)
-[![Optionally change exchange provider from available options](/images/exchange3.jpg){:width="32%"}](/images/exchange3.jpg)
+[![Click Swap icon on homescreen](/images/exchange1.png){:width="32%"}](/images/exchange1.png)
+[![Change "Convert from" and "Convert to" values](/images/exchange2.png){:width="32%"}](/images/exchange2.png)
+[![Optionally change exchange provider from available options](/images/exchange3.png){:width="32%"}](/images/exchange3.png)
 
 ### Step 2
 
-Input the receiving address (using the paste button, scanning QR code, or using Address book). We use your current BTC or XMR wallet address as the refund address. Then enter an amount. You can send all available funds from your wallet by pressing the "All" button. Check that all of the filled-in information is correct, and press "Swap". On the next screen, you will see the Trade ID. Please copy or save the Trade ID.
+Input the receiving address (using the paste button, scanning QR code, or using Address book). We use your current BTC or XMR wallet address as the refund address. Then enter an amount. You can send all available funds from your wallet by pressing the "All" button. Check that all of the filled-in information is correct, and press "Swap". On the next screen, you will see the Trade ID. Please copy or save the Trade ID. Now tap on "Send from Cake Wallet".
 
-[![Add amount and address](/images/exchange4.jpg){:width="32%"}](/images/exchange4.jpg)
-[![Save trade ID](/images/exchange5.jpg){:width="32%"}](/images/exchange5.jpg)
-[![Confirm sending](/images/exchange6.jpg){:width="32%"}](/images/exchange5.jpg)
+[![Add amount and address](/images/exchange4.png){:width="32%"}](/images/exchange4.png)
+[![Save trade ID](/images/exchange5.png){:width="32%"}](/images/exchange5.png)
+[![Got it](/images/exchange6.png){:width="32%"}](/images/exchange6.png)
+[![Send from Cake Wallet](/images/exchange7.png){:width="32%"}](/images/exchange7.png)
 
 ### Step 3
 
-To confirm the trade, press "Confirm". After that, you will see the trade details screen. You can track the status of the swap there. The status will display "Finished" when an swap has been completed. You can also tap "Track" to track your trade with the provided link. You can always come back to this screen by swiping to the right of your balance, and tapping on the swap in your Transaction History.
+Cake will compose the transaction, show final screen with all details right before you press "Send". Finally, you will see the trade details screen. You can track the status of the swap there. The status will display "Finished" when an swap has been completed. You can also tap "Track" to track your trade with the provided link. You can always come back to this screen by swiping to the right of your balance, and tapping on the swap in your Transaction History.
 
-[![Click confirm to proceed](/images/exchange7.jpg){:width="32%"}](/images/exchange7.jpg)
-[![See trade under Transactions screen](/images/exchange8.jpg){:width="32%"}](/images/exchange8.jpg)
-[![See trade details and state](/images/exchange9.jpg){:width="32%"}](/images/exchange9.jpg) 
+[![Send](/images/exchange8.png){:width="32%"}](/images/exchange8.png)
+[![See trade under Transactions screen](/images/exchange9.png){:width="32%"}](/images/exchange9.png)
+[![See trade details and state](/images/exchange10.jpg){:width="32%"}](/images/exchange10.png) 
 
 
 ## You can watch our YouTube tutorials here:
