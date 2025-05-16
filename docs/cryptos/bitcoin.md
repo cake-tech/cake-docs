@@ -98,3 +98,26 @@ In order to receive a Silent Payment, you must give the sender your Silent Payme
 ### Sending
 
 You can send Bitcoin to an existing Silent Payments address (`sp1xxx`) using the same flow. No extra work is required to send to a Silent Payments address, the wallet will handle the unique address generation in the background before sending your transaction.
+
+## PayJoin
+
+Bitcoin PayJoin is a privacy-enhancing feature that allows multiple users to combine their transactions into a single one, making it more difficult for third parties to track individual transactions. When a user initiates a PayJoin transaction, their wallet combines their payment with other users' payments, resulting in a single transaction that includes multiple inputs and outputs. This technique makes it challenging for observers to determine which output corresponds to which user's payment, thereby improving overall transaction privacy.
+
+
+
+!!! note
+    Using PayJoin requires both parties to be online with their wallet open for the duration of the transaction, and requires both parties to be using a PayJoin compatible wallet.
+
+### Enable PayJoin
+
+1. To enable PayJoin, open the app menu then click on `Privacy`.
+
+    ![](./bitcoin/payjoin-2.png){:width="32%"}
+
+2. Toggle the `PayJoin` option to enable it.
+
+    ![](./bitcoin/payjoin-3.png){:width="32%"}
+
+3. Open the `Receive` screen, and you will be presented with a PayJoin QR code and copy button.
+
+    ![](./bitcoin/payjoin-4.png){:width="32%"}
