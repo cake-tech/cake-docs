@@ -134,7 +134,7 @@ For those who want to preserve their transaction history or have a specific reas
 !!! note
     If you’re using Exodus on a desktop or laptop computer, click here to jump directly to desktop instructions 👇
 
-    [Backing up your Monero from Exodus Desktop](https://www.notion.so/Backing-up-your-Monero-from-Exodus-Desktop-1a8893492c6f80789662e0dbd344216f?pvs=21) 
+    [Backing up your Monero from Exodus Desktop](#backing-up-your-monero-from-exodus-desktop) 
 
 
 ### Backing up your Monero from Exodus Mobile
@@ -150,7 +150,7 @@ For those who want to preserve their transaction history or have a specific reas
     Do not share these seed words with anyone or store them via screenshots or in an insecure note app, as anyone with access to your seed words has the ability to steal all of your Monero!
 
 1. Either tap the copy button, or write down your 25-word seed phrase (in the box labeled `Mnemonic`) in a safe place where you can import it into Cake Wallet in the next section. We recommend a few options:
-    - Storing your seed in an e**nd-to-end encrypted** password manage like Bitwarden, Proton Pass, or iCloud Keychain
+    - Storing your seed in an **end-to-end encrypted** password manage like Bitwarden, Proton Pass, or iCloud Keychain
     - Writing it down and keeping it in a **secure place**
 
 ### Backing up your Monero from Exodus Desktop

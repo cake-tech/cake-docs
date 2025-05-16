@@ -34,8 +34,6 @@ When creating a wallet, first select the wallet asset type you want. Then, in th
 
 ## Node lists
 
-We run a service uptime tracker and list of Monero nodes at [**nodes.monero.com**](https://nodes.monero.com). We also have an [official onion node](/docs/advanced-features/tor-with-orbot/#connect-to-an-onion-node).
-
 We strongly recommend [running your own node](https://guides.monero.com/docs/tutorials/monero-node)!
 
 ## Remove a node
