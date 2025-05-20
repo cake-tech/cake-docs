@@ -101,12 +101,12 @@ You can send Bitcoin to an existing Silent Payments address (`sp1xxx`) using the
 
 ## PayJoin
 
-Bitcoin PayJoin is a privacy-enhancing feature that allows multiple users to combine their transactions into a single one, making it more difficult for third parties to track individual transactions. When a user initiates a PayJoin transaction, their wallet combines their payment with other users' payments, resulting in a single transaction that includes multiple inputs and outputs. This technique makes it challenging for observers to determine which output corresponds to which user's payment, thereby improving overall transaction privacy.
+Payjoin v2 is a privacy-preserving and fee-saving feature in Bitcoin that allows the sender and recipient of a transaction to work together to create a single transaction. This transaction has inputs from _both_ the sender and receiver, breaking the most common surveillance techniques against Bitcoin and allowing for better scaling and fee savings in some circumstances as well.
 
-
+To learn more, visit [Payjoin.org](https://payjoin.org/docs/how-payjoin-saves/) or check out [this amazing "zine"](https://satsie.dev/zines/payjoin) on the topic.
 
 !!! note
-    Using PayJoin requires both parties to be online with their wallet open for the duration of the transaction, and requires both parties to be using a PayJoin compatible wallet.
+    Using PayJoin requires both parties to be using a PayJoin compatible wallet, and for the recipient to already have at least one coin or output in their wallet.
 
 ### Enable PayJoin
 
