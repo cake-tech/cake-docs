@@ -10,6 +10,9 @@ icon: simple/ethereum
 
 Ethereum `(ETH)` is a decentralized, open-source blockchain that enables smart contracts. Unlike Bitcoin, which is primarily a digital currency, Ethereum provides a more versatile platform allowing developers to build various types of decentralized applications (dApps), and supports token standards such as ERC-20.
 
+!!! warning ""
+    This wallet type **only** supports sending on the **Ethereum** network. Do not attempt to receive other networks to this wallet, or send funds to other networks.
+
 ## Addresses
 
 In Cake Wallet's Ethereum wallet, there is only one address per wallet, which is standard for the Ethereum ecosystem. Keep in mind that this will have lesser privacy compared to some other assets, where new addresses are automatically generated.
