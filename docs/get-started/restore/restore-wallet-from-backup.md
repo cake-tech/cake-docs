@@ -5,7 +5,7 @@ parent: Basic Features
 
 # Restore wallet from backup file
 
-To create a backup file, [click here](/docs/basic-features/create-backup)
+To create a backup file, [click here](/features/basic/create-backup/)
 
 ## Step 1  
 
