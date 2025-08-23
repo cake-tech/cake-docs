@@ -21,6 +21,6 @@ Cupcake is currently only supported on iOS and Android.
 
 ## Cryptos
 
-Cupcake currently supports Monero.
+Cupcake currently supports Monero and Bitcoin.
 
 More cryptocurrencies will be supported in the future.
