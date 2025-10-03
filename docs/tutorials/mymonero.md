@@ -29,9 +29,12 @@ Cake Wallet is available on Android, iOS, macOS, Linux, and Windows.
 
 For the best compatibility and easiest setup we recommend using the mobile version of Cake Wallet to get started, and then explore our desktop apps down the line.
 
-Please choose one of the options from the Get Started page.
+Please choose one of the options below to get started:
 
-[Get Started](/get-started/){ .md-button }
+[:simple-android: Android](/get-started/android/){ .md-button }
+[:simple-apple: iOS / macOS](/get-started/app-store){ .md-button }
+[:simple-linux: Linux](/get-started/linux/){ .md-button }
+[:material-microsoft-windows: Windows](/get-started/windows){ .md-button }
 
 ## *Recommended method:* Sending to a new wallet in Cake
 
