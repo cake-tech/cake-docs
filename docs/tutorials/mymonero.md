@@ -116,9 +116,7 @@ For those who want to preserve their transaction history or have a specific reas
 
     ![Expand the secrets dropdown](mymonero/mm_home_dropdown.jpeg){: style="height:750px"}
 
-3. Copy the wallet creation height and save it for later
-    1. Using the wallet creation height when restoring in Cake Wallet will drastically reduce the initial sync time, so be sure to save it somewhere!
-4. Confirm that you’re in a safe place and are OK to display your private keys on-screen
+3. Confirm that you’re in a safe place and are OK to display your private keys on-screen
 
 !!! warning
     Do not share these seed words with anyone or store them via screenshots or in an insecure note app, as anyone with access to your seed words has the ability to steal all of your Monero!
@@ -155,15 +153,10 @@ For those who want to preserve their transaction history or have a specific reas
 7. Tap the `Polyseed (16 words)` option and change to `Legacy (25 words)`
 
     ![Change to Legacy seed type](mymonero/restore_legacy.png){: style="height:750px"}
-
-8. Enter the saved wallet creation height number from your MyMonero Monero wallet
-    1. i.e. `3344621`
     
-    ![Enter your restore height from MyMonero](mymonero/restore_height.png){: style="height:750px"}
-    
-9. Tap `Restore`
-10. Once restored, you will see a synchronization status bar at the top of the balance screen as Cake Wallet checks the Monero blockchain for your wallet history and balance
-11. When Cake Wallet finishes the synchronization process and the top bar says `SYNCHRONIZED`, you will see your full balance and transaction history
+8. Tap `Restore`
+9.  Once restored, you will see a synchronization status bar at the top of the balance screen as Cake Wallet checks the Monero blockchain for your wallet history and balance
+10. When Cake Wallet finishes the synchronization process and the top bar says `SYNCHRONIZED`, you will see your full balance and transaction history
 
 # Using Cake Wallet
 
