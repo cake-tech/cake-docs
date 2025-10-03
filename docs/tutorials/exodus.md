@@ -47,19 +47,19 @@ This newer seed format is easier to backup and restore (only 16 words, instead o
 3. Tap `Set a PIN` and set a PIN for the app
     1. Note: If you want to use a longer 6-digit PIN, simply tap `Switch to 6-digit PIN`
         
-        ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image.png)
+        ![image.png](exodus/image.png){: style="height:750px"}
         
 4. Tap `Create New Wallet`
     
-    ![Screenshot_20250303_122035-1.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/Screenshot_20250303_122035-1.png)
+    ![Screenshot_20250303_122035-1.png](exodus/Screenshot_20250303_122035-1.png){: style="height:750px"}
     
 5. Select `Monero` as the wallet currency and then tap `Next`
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%201.png)
+    ![image.png](exodus/image%201.png){: style="height:750px"}
     
 6. Enter a wallet name (or tap the 🔄 button to create a random name) and then tap `Next`
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%202.png)
+    ![image.png](exodus/image%202.png){: style="height:750px"}
     
 7. Follow the on-screen warnings about your seed phrase, then tap `Verify`
 
@@ -69,31 +69,28 @@ This newer seed format is easier to backup and restore (only 16 words, instead o
     
 !!! warning
     Do not share these seed words with anyone or store them via screenshots or in an insecure note app, as anyone with access to your seed words has the ability to steal all of your Monero!
-    
-
-    
 
 8. Verify your backup by tapping the correct seed words in the order prompted
 9. Tap `Receive` on the bottom dock to display a QR code with a Monero receive address
-    1. Note: If necessary, you can easily copy or share the address by tapping the icon next to the address, then sending to yourself via a messaging app, email, etc. 
+    1. Note: If necessary, you can easily copy or share the address by tapping the icon next to the address, then sending to yourself via a messaging app, email, etc.
 
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%203.png)
+![image.png](exodus/image%203.png){: style="height:750px"}
 
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%204.png)
+![image.png](exodus/image%204.png){: style="height:750px"}
 
 ### Send Monero balance from Exodus Mobile
 
 1. On the home page of Exodus, scroll down and tap on Monero
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%205.png)
+    ![image.png](exodus/image%205.png){: style="height:750px"}
     
 2. Tap the Send button at the top left
     
-    ![ED144DB6-FE15-44C6-9BEA-46A97B3F84FA_1_201_a.jpeg](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/ED144DB6-FE15-44C6-9BEA-46A97B3F84FA_1_201_a.jpeg)
+    ![ED144DB6-FE15-44C6-9BEA-46A97B3F84FA_1_201_a.jpeg](exodus/ED144DB6-FE15-44C6-9BEA-46A97B3F84FA_1_201_a.jpeg){: style="height:750px"}
     
 3. Scan the QR code in Cake Wallet, or tap the address field to paste in the address, then tap `Continue`
     
-    ![73F0FD77-AABE-4819-8AC8-1D66DDEB349B_1_201_a.jpeg](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/73F0FD77-AABE-4819-8AC8-1D66DDEB349B_1_201_a.jpeg)
+    ![73F0FD77-AABE-4819-8AC8-1D66DDEB349B_1_201_a.jpeg](exodus/73F0FD77-AABE-4819-8AC8-1D66DDEB349B_1_201_a.jpeg){: style="height:750px"}
     
 4. Tap `All` to send the entirety of your Monero balance to your new Cake Wallet, then tap `Preview`
     
@@ -101,7 +98,7 @@ This newer seed format is easier to backup and restore (only 16 words, instead o
 !!! note
     Feel free to send a smaller, test transaction to Cake Wallet to test if it helps you feel more comfortable before sending your entire wallet balance!
     
-![73E45A25-9662-4CB7-A0EA-EE8F2CA1A191_1_201_a.jpeg](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/73E45A25-9662-4CB7-A0EA-EE8F2CA1A191_1_201_a.jpeg)
+![73E45A25-9662-4CB7-A0EA-EE8F2CA1A191_1_201_a.jpeg](exodus/73E45A25-9662-4CB7-A0EA-EE8F2CA1A191_1_201_a.jpeg){: style="height:750px"}
     
 5. Confirm the receiving address is correct on the preview screen, then `Swipe to send`
 6. Once you have sent the funds, confirm they show up in your new Monero wallet in Cake
@@ -111,18 +108,18 @@ This newer seed format is easier to backup and restore (only 16 words, instead o
 1. Open Exodus Wallet
 2. From the portfolio screen, click to open the Monero wallet
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%206.png)
+    ![image.png](exodus/image%206.png)
     
 3. Click `Send` to open the send menu
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%207.png)
+    ![image.png](exodus/image%207.png)
     
 4. Paste your address from Cake Wallet into the address field (or scan a QR code on your Cake Wallet app if you have a webcam), click `All` on the amount field, then click `Send`
     
 !!! note
     Feel free to send a smaller, test transaction to Cake Wallet to test if it helps you feel more comfortable before sending your entire wallet balance!
     
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%208.png)
+![image.png](exodus/image%208.png)
     
 5. Continue following the on-screen instructions, and confirm the receiving address is correct on the send prompt before tapping `Send`
 6. Once you have sent the funds, confirm they show up in your new Monero wallet in Cake
@@ -157,23 +154,23 @@ For those who want to preserve their transaction history or have a specific reas
 
 1. From the Portfolio page, scroll down to find your Monero wallet, and click on it to open the Monero wallet page.
 
-![Screenshot_20250228_104405-1.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/Screenshot_20250228_104405-1.png)
+![Screenshot_20250228_104405-1.png](exodus/Screenshot_20250228_104405-1.png){: style="height:750px"}
 
 1. Once you are on the Monero wallet page, click the three dots near the top right to open a menu
 
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%209.png)
+![image.png](exodus/image%209.png){: style="height:750px"}
 
 1. Click `View Private Keys`
 
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2010.png)
+![image.png](exodus/image%2010.png){: style="height:750px"}
 
 1. Click `Yes, I'm Sure`
 
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2011.png)
+![image.png](exodus/image%2011.png){: style="height:750px"}
 
 1. Copy the words from the `Mnemonic` field to your clipboard, this is also known as the `seed phrase`
 
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2012.png)
+![image.png](exodus/image%2012.png){: style="height:750px"}
 
 !!! warning
     Do not share these seed words with anyone or store them via screenshots or in an insecure note app, as anyone with access to your seed words has the ability to steal all of your Monero!
@@ -186,43 +183,43 @@ For those who want to preserve their transaction history or have a specific reas
 
 1. Tap `Set a PIN` and set a PIN for the app
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2013.png)
+    ![image.png](exodus/image%2013.png){: style="height:750px"}
     
 2. Tap `Restore Existing Wallet` 
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2014.png)
+    ![image.png](exodus/image%2014.png){: style="height:750px"}
     
 3. Tap `Restore from seed/keys`
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2015.png)
+    ![image.png](exodus/image%2015.png){: style="height:750px"}
     
 4. Select `Monero` as wallet currency and then tap `Next`
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%201.png)
+    ![image.png](exodus/image%201.png){: style="height:750px"}
     
 5. Choose a name for the wallet
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2016.png)
+    ![image.png](exodus/image%2016.png){: style="height:750px"}
     
 6. Paste or type in the seed phrase from Exodus wallet that you backed up earlier
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2017.png)
+    ![image.png](exodus/image%2017.png){: style="height:750px"}
     
 7. Tap the `Polyseed (16 words)` option and change to `Legacy (25 words)`
 
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2018.png)
+![image.png](exodus/image%2018.png){: style="height:750px"}
 
-![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2019.png)
+![image.png](exodus/image%2019.png){: style="height:750px"}
 
 1. Enter the saved wallet creation height number from your Exodus Monero wallet
     1. i.e. `3344621`
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2020.png)
+    ![image.png](exodus/image%2020.png){: style="height:750px"}
     
 2. Tap `Restore`
 3. Once restored, you will see a synchronization status bar at the top of the balance screen as Cake Wallet checks the Monero blockchain for your wallet history and balance
     
-    ![image.png](Migrating%20from%20Exodus%20to%20Cake%20Wallet,%20Made%20Easy%201a8893492c6f80ab8025fa0bda5119a4/image%2021.png)
+    ![image.png](exodus/image%2021.png){: style="height:750px"}
     
 4. When Cake Wallet finishes the synchronization process and the top bar says `SYNCHRONIZED`, you will see your full balance and transaction history
 
