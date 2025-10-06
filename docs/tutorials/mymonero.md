@@ -43,7 +43,7 @@ The easiest path is to simply create a new Monero wallet in Cake Wallet and tran
 This newer seed format is easier to backup and restore (only 16 words, instead of 25), encodes the restore height directly into the seed phrase, and has several other security features that ensure your Monero stays safer than ever.
 
 !!! note ""
-    Alternatively, you can create a new Monero wallet using a 12-word BIP 39 seed, which enables you to use one seed for all of your crypto wallets in Cake. In the future this will be the default seed format for Monero wallets in Cake, as our users love the ability to only backup one seed phrase but recover all of their wallets, even if they're Bitcoin, Ethereum, Solana, etc. wallets.
+    Alternatively, you can create a new Monero wallet using a 12-word BIP 39 seed, which enables you to use one seed for all of your crypto wallets in Cake. In the future this will be the default seed format for Monero wallets in Cake due to the simplicity it brings to seed backups.
 
 ### Creating a new Monero wallet on Cake
 
