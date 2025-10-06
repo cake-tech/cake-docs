@@ -12,7 +12,9 @@ hide:
 <br><br><br>
 
 
-# :wave: Hello!
+# 
+
+## :wave: Hello!
 
 !!! note ""
     Thanks for using Cake Wallet! Cake Wallet is open source with a permissive MIT license. Thanks for supporting open source software ❤️
