@@ -1,4 +1,5 @@
 ---
+icon: icons/cupcake-light
 ---
 # :icons-cupcake-light: Cupcake
 

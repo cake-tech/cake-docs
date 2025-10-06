@@ -5,6 +5,8 @@ hide:
     - navigation
 ---
 
+#
+
 ![Cake Wallet](./index/cw-light.png#only-light){ width="50%" align=left }
 ![Cake Wallet](./index/cw-dark.png#only-dark){ width="50%" align=left }
 ![Devices](./index/devices.png){ width="60%" align=left }
