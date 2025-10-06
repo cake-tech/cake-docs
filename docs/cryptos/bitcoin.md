@@ -23,7 +23,6 @@ Electrum: `m/0'`
 
 BIP-39: `m/84'/0'/0`
 
-
 ## Addresses
 
 We automatically generate new Bitcoin addresses after each use for better privacy. Previous addresses continue to work.
@@ -44,9 +43,7 @@ You can switch to a different address type by going to the `Receive` screen and 
 
 ## Seed format
 
-Bitcoin wallets only currently support being created using the Electrum seed format. We support restoring seeds generated in the Electrum and BIP-39 seed format.
-
-BIP-39 restoring will check for multiple derivation paths, and ask you which one you would like to use if transactions are detected on multiple paths.
+By default Cake Wallet uses the industry-standard 12-word BIP 39 seed format, but we do allow users to restore legacy Electrum-style seed phrases if required.
 
 ## Bitcoin fee levels
 
@@ -75,21 +72,20 @@ This protocol protects the receivers privacy by automatically having the sender 
 
 For a more detailed explanation on how Silent Payments works, please visit [silentpayments.xyz](https://silentpayments.xyz/){:target="_blank"}.
 
-One major difference of Silent Payments is in order to fully protect the privacy of the user and not have the server know which Silent Payments transactions belong to them, we opt for on-device scanning of transactions instead of having a light wallet and making the node do all the work for us. This incurrs greater synchronization time, device power consumption and hardware utilization, but protects the privacy of the user much more.
+One major difference of Silent Payments is in order to fully protect the privacy of the user and not have the server know which Silent Payments transactions belong to them, we opt for on-device scanning of transactions instead of having a light wallet and making the node do all the work for us. This incurs greater synchronization time, device power consumption and hardware utilization, but protects the privacy of the user much more.
 
 Silent Payment addresses start with `sp1`.
 
 ### Scanning
 
-In order to enable Silent Payments, tap the switch on the "Silent Payments" card to start scanning blocks for Silent Paymemnts.
+In order to enable Silent Payments, tap the switch on the "Silent Payments" card to start scanning blocks for Silent Payments.
 
 ![Toggle Silent Payments scanning](./bitcoin/silentpayments.png){:width="32%"}
 
-The wallet will start scanning from the height of when you first opened it after installing 4.18.0 or higher, or continue where it left off. Silent Payments scanning will automnatically turn off once it has reached the current blockheight. If you would like it to automatically scan for Silent Payment transactions on new blocks, please toggle an option under Menu -> Silent Payments settings -> "Set Silent Payments always scanning" to on. Silent Payments scanning will automatically toggle on if there are new blocks to scan and toggle back off when it's finished.
+The wallet will start scanning from the height of when you first opened it, or continue where it left off. Silent Payments scanning will automnatically turn off once it has reached the current blockheight. If you would like it to automatically scan for Silent Payment transactions on new blocks, please toggle the option under Menu -> Silent Payments settings -> "Set Silent Payments always scanning" to on. Silent Payments scanning will automatically toggle on if there are new blocks to scan and toggle back off when it's finished.
 
 ![App menu](./bitcoin/menu.png){:width="32%"}
 ![Toggle always scanning](./bitcoin/alwaysscan.png){:width="32%"}
-
 
 ### Receiving
 
@@ -101,23 +97,23 @@ You can send Bitcoin to an existing Silent Payments address (`sp1xxx`) using the
 
 ## PayJoin
 
-Payjoin v2 is a privacy-preserving and fee-saving feature in Bitcoin that allows the sender and recipient of a transaction to work together to create a single transaction. This transaction has inputs from _both_ the sender and receiver, breaking the most common surveillance techniques against Bitcoin and allowing for better scaling and fee savings in some circumstances as well.
+Payjoin v2 is a privacy-preserving feature in Bitcoin that allows the sender and recipient of a transaction to work together to create a single transaction. This transaction has inputs from _both_ the sender and receiver, breaking the most common surveillance techniques against Bitcoin and allowing for better scaling and fee savings in some circumstances as well.
 
 To learn more, visit [Payjoin.org](https://payjoin.org/docs/how-payjoin-saves/) or check out [this amazing "zine"](https://satsie.dev/zines/payjoin) on the topic.
 
 !!! note
-    Using PayJoin requires both parties to be using a PayJoin compatible wallet, and for the recipient to already have at least one coin or output in their wallet.
+    Using PayJoin requires both parties to be using a PayJoin compatible wallet, and for the recipient to already have at least one coin in their wallet.
 
 ### Enable PayJoin
 
 1. To enable PayJoin, open the app menu then click on `Privacy`.
 
-    ![](./bitcoin/payjoin-2.png){:width="32%"}
+    ![Menu > Privacy](./bitcoin/payjoin-2.png){:width="32%"}
 
 2. Toggle the `PayJoin` option to enable it.
 
-    ![](./bitcoin/payjoin-3.png){:width="32%"}
+    ![Toggle Payjoin](./bitcoin/payjoin-3.png){:width="32%"}
 
 3. Open the `Receive` screen, and you will be presented with a PayJoin QR code and copy button.
 
-    ![](./bitcoin/payjoin-4.png){:width="32%"}
+    ![Receive w/ Payjoin](./bitcoin/payjoin-4.png){:width="32%"}

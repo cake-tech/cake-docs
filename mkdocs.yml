@@ -160,7 +160,6 @@ nav:
   - cryptos/zano.md
   - cryptos/decred.md
   - cryptos/wownero.md
-  - cryptos/haven.md
 
 - Features:
   - features/index.md
@@ -184,12 +183,10 @@ nav:
 
 - Cake Pay:
   - cake-pay/index.md
-  - cake-pay/buy-gift-card.md
-  - cake-pay/faq.md
 
 - Cupcake:
   - cupcake/index.md
-  - cupcake/setup.md
+  - cupcake/getting-started.md
 
 - FAQ:
   - faq/index.md
@@ -221,14 +218,7 @@ nav:
   - support/receive.md
   - support/sell.md
 
-# - Status: status/index.md
-
-# - cakewallet.com: website/index.md
-
-
 # Plugins
 plugins:
   - search
   - glightbox
-  # - git-revision-date-localized:
-  #     enable_creation_date: true

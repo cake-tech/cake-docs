@@ -3,15 +3,11 @@ icon: icons/cupcake-light
 ---
 # :icons-cupcake-light: Cupcake
 
-!!! note ""
-    Cupcake is currently in **BETA** and is not recommended unless you know are familiar with air-gapped wallets and can self-troubleshoot.
-    Please do not open a support ticket for Cupcake at this time.
+Cupcake is the latest app in the Cake Wallet family, focused on making crypto security possible for everyone. No more waiting weeks for shipping and customs, no more $200+ costs, no more terrifying data breaches. If you have an old phone lying around, Cupcake lets you turn it into a powerful hardware wallet with just a few taps.
 
-Cupcake is an air-gapped wallet using live QR codes.
+It works similarly to an air-gapped hardware wallet, separating the private keys from the main wallet app and becoming a dedicated signer.
 
-It works similarly to a hardware wallet, separating the private keys from the main wallet app and becoming a dedicated transaction signer.
-
-Cupcake contains the private wallet keys for transaction signing, whereas Cake Wallet has only the view keys necessary to see balance, transactions, and generate transactions for Cupcake to sign.
+Cupcake contains the private keys for transaction signing, while Cake Wallet has only the view keys (or public keys) necessary to see your balance, historical transactions, and generate new transactions for Cupcake to sign.
 
 ## Download
 
@@ -19,8 +15,6 @@ Cupcake can be downloaded from the [App Store](https://apps.apple.com/eg/app/cup
 
 Cupcake is currently only supported on iOS and Android.
 
-## Cryptos
+## Supported cryptocurrencies
 
-Cupcake currently supports Monero.
-
-More cryptocurrencies will be supported in the future.
+Cupcake currently supports Bitcoin and Monero, but more cryptocurrencies will be supported in the future, starting with Litecoin (including MWEB support).
