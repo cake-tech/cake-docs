@@ -206,6 +206,7 @@ nav:
 - Tutorials:
   - tutorials/index.md
   - tutorials/exodus.md
+  - tutorials/mymonero.md
   - tutorials/bitcoin-paper-wallet.md
   - tutorials/find-seed-phrase.md
   - tutorials/mobile-hardening.md
