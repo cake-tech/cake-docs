@@ -218,16 +218,7 @@ nav:
   - support/receive.md
   - support/sell.md
 
-# - Status: status/index.md
-
-# - cakewallet.com: website/index.md
-
-
 # Plugins
 plugins:
   - search
-  - admonition
-  - pymdownx.details
   - glightbox
-  # - git-revision-date-localized:
-  #     enable_creation_date: true
