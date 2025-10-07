@@ -40,7 +40,7 @@ If your wallet is stuck at the `Disconnected` or `Attempting Sync` status, chang
 1. Tap the menu at the top right of the screen.
 2. Select `Connection and sync`.
 3. Choose `Manage nodes`.
-4. Select a new node from the list. Only nodes highlighted with a green dot will work; red dots are unavailable. Alternatively, you can [add a new custom node](/docs/advanced-features/custom-node/).
+4. Select a new node from the list. Only nodes highlighted with a green dot will work; red dots are unavailable. Alternatively, you can [add a new custom node](../../features/advanced/custom-node).
 
 ## Tor
 

@@ -51,7 +51,7 @@ This is a rare Monero wallet-daemon communication error. Please first try using 
 
 You may see this error while using a Monero view-only wallet. If this is the case, then you are getting this error because you cannot properly construct an outgoing transaction without a private spend key.
 
-If the issue persists for a wallet that has the private spend key (if it is NOT a view-only wallet), please contact Cake Wallet support with as much information as you have. They will guide you through [rescanning your wallet](/docs/advanced-features/rescan-wallet) and [restoring from seed](/docs/basic-features/restore-wallet-from-keys-or-seed).
+If the issue persists for a wallet that has the private spend key (if it is NOT a view-only wallet), please contact Cake Wallet support with as much information as you have. They will guide you through [rescanning your wallet](../../features/advanced/rescan-wallet/) and [restoring from seed](../../get-started/setup/restore/restore-wallet-from-keys-or-seed).
 
 ### Internal error: Failed to get earliest fork height
 
@@ -63,7 +63,7 @@ You should also try turning off Tor or your VPN, and seeing if the issue persist
 
 This is a rare wallet issue for Bitcoin and Litecoin.
 
-First, please try force closing and restarting your app. If this does not address the issue, please save your mnemonic seed, then delete and [restore the wallet from seed](/docs/basic-features/restore-wallet-from-keys-or-seed/).
+First, please try force closing and restarting your app. If this does not address the issue, please save your mnemonic seed, then delete and [restore the wallet from seed](../../get-started/setup/restore/restore-wallet-from-keys-or-seed).
 
 ### RPCError: got code -32000 with msg "execution reverted"
 

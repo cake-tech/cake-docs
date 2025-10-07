@@ -35,8 +35,7 @@ Under no circumstances should you send any additional funds to the compromised w
 
 ## Create a new wallet
 
-To continue using Cake Wallet safely, you'll need to create a new wallet.
-You can follow the instructions [here](/docs/basic-features/create-another-wallet/) for a detailed tutorial. Otherwise: 
+To continue using Cake Wallet safely, you'll need to create a new wallet: 
 
 1. Tap the menu at the top right, then select `Wallets`.
 2. Choose `Create New Wallet`.
@@ -74,7 +73,7 @@ Never share your seed with anyone, including support staff. Remember that the se
 
 ## Consider enabling Cake 2FA
 
-[Cake 2FA](/docs/advanced-features/authentication/#cake-2fa) is an optional feature to provide more security on your local wallet. It will not prevent scammers from using the seeds that you give to them, but it will help prevent basic in-person thefts. If you enable Cake 2FA, make sure to have safe copies of your seed phrase, in case you lose access to your 2FA device!
+[Cake 2FA](../../features/advanced/authentication/#cake-2fa) is an optional feature to provide more security on your local wallet. It will not prevent scammers from using the seeds that you give to them, but it will help prevent basic in-person thefts. If you enable Cake 2FA, make sure to have safe copies of your seed phrase, in case you lose access to your 2FA device!
 
 ## Verify who you are speaking to
 
@@ -82,9 +81,8 @@ In the future, when speaking to support staff from Cake Labs - or any company - 
 
 These are our official support channels:
 
-* Official Websites: https://cakewallet.com and https://monero.com
+* Official Websites: <https://cakewallet.com> and <https://monero.com>
 * Email: support@cakewallet.com
-* Telegram: @cakewallet (community) and @cakewallet_bot (support messages)
-* Reddit: reddit.com/r/cakelabs
+* Telegram: `@cakewallet` (community) and `@cakewallet_bot` (support messages)
 
 Please feel free to ask our support staff if you need any further help!

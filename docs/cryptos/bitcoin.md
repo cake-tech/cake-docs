@@ -89,7 +89,7 @@ The wallet will start scanning from the height of when you first opened it, or c
 
 ### Receiving
 
-In order to receive a Silent Payment, you must give the sender your Silent Payments address, which can be found by switching the address type to Silent Payments following the instructions under the [addresses](http://localhost:4000/docs/cryptos/bitcoin/#addresses) section of this page. When you want to receive the transaction in the wallet, you must enable Silent Payments scanning.
+In order to receive a Silent Payment, you must give the sender your Silent Payments address, which can be found by switching the address type to Silent Payments following the instructions under the [addresses](#addresses) section of this page. When you want to receive the transaction in the wallet, you must enable Silent Payments scanning.
 
 ### Sending
 

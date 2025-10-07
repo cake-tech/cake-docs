@@ -26,7 +26,7 @@ Extract the Cake_wallet.tar.xz into the Persistent volume at `/home/amnesia/Pers
 
 Example video for extracting the Cake Wallet files into a custom `cake_wallet` Persistent directory.
 
-<iframe width="480" height="360" src="./tails/extract.webm" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="extract.webm" frameborder="0"> </iframe>
 
 ## Running
 

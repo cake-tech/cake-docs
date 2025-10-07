@@ -10,7 +10,7 @@ NEVER share your seeds/keys with anyone! If you do, they can steal your funds. A
 
 You can follow these simple steps to find your seed phrase. This seed phase can be used to restore your funds in another wallet.
  
-1. Open Cake Wallet, which has an existing wallet. If you do not have an existing wallet, then [create one first](/docs/basic-features/create-first-wallet).
+1. Open Cake Wallet, which has an existing wallet. If you do not have an existing wallet, then [create one first](../../get-started/setup/create-new-wallet).
 
 2. In the top right corner of the app, you will see a menu button. Click on the menu button.
 

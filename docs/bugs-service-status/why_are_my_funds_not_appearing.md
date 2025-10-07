@@ -9,10 +9,10 @@ Your wallet must be fully synchronized before it displays the correct balance. Y
 
 [![Synchronized](/images/funds-1.jpg)](/images/funds-1.jpg)
 
-If you see "XXXX blocks remaining" this means that your wallet is still synchronizing. Please wait until it is fully synchronized. If your wallet already displays `SYNCHRONIZED`, you can try [rescanning](/docs/advanced-features/rescan-wallet/) by opening the menu at the top-right, tapping `Rescan`, and setting a date from about a week before the wallet's first transaction.
+If you see "XXXX blocks remaining" this means that your wallet is still synchronizing. Please wait until it is fully synchronized. If your wallet already displays `SYNCHRONIZED`, you can try [rescanning](../../features/advanced/rescan-wallet/) by opening the menu at the top-right, tapping `Rescan`, and setting a date from about a week before the wallet's first transaction.
 
-{: .warning}
-[Rescanning](/docs/advanced-features/rescan-wallet/) will remove any saved transaction keys and destination addresses, which may be useful for proving payments.
+!!! warning
+    [Rescanning](../../features/advanced/rescan-wallet/) will remove any saved transaction keys and destination addresses, which may be useful for proving payments.
 
 [![Syncing](/images/funds-2.jpg)](/images/funds-2.jpg)
 

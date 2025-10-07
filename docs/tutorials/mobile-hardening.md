@@ -79,11 +79,11 @@ We have a guide for running your own Monero node [here](https://guides.monero.co
         * Login: (blank)
         * Password: (blank)
         * Use SSL: (unticked)
-5. We recommend enabling [Cake 2FA](/docs/advanced-features/authentication#cake-2fa).
+5. We recommend enabling [Cake 2FA](../../features/advanced/authentication).
 
 If you are running your own node, you can connect to it without needing Tor, which allows for significantly faster syncing.
 
-We recommend using **your own clearnet** node in most cases for best performance. Learn more about [using Tor with Cake Wallet](/docs/advanced-features/tor-with-orbot).
+We recommend using **your own clearnet** node in most cases for best performance. Learn more about [using Tor with Cake Wallet](../../features/advanced/tor-with-orbot).
 
 You can change these settings later in "Privacy settings" and "Connection and sync".
 
