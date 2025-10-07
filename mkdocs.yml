@@ -138,13 +138,14 @@ nav:
     - Windows: get-started/windows.md
 
   - Setup:
-    - get-started/setup/create-first-wallet.md
-    - get-started/setup/create-another-wallet.md
-  - Restore:
-    - get-started/restore/restore-wallet-from-keys-or-seed.md
-    - get-started/restore/restore-wallet-from-backup.md
-    - get-started/restore/restore-wallet-from-qr-code.md
-    - get-started/restore/restore-wallet-from-hardware.md
+    - get-started/setup/index.md
+    - get-started/setup//create-new-wallet.md
+    - Restore existing wallet:
+      - get-started/setup/restore/index.md
+      - get-started/setup/restore/restore-wallet-from-keys-or-seed.md
+      - get-started/setup/restore/restore-wallet-from-backup.md
+      - get-started/setup/restore/restore-wallet-from-qr-code.md
+      - get-started/setup/restore/restore-wallet-from-hardware.md
 
 - Cryptos:
   - cryptos/index.md

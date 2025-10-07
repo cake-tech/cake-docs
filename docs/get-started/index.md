@@ -7,10 +7,10 @@ icon: material/arrow-right
 
 Cake Wallet is available on Android, iOS, macOS, Linux, and Windows platforms.
 
-[:simple-android: Android](/get-started/android/){ .md-button }
-[:simple-apple: iOS / macOS](/get-started/app-store){ .md-button }
-[:simple-linux: Linux](/get-started/linux/){ .md-button }
-[:material-microsoft-windows: Windows](/get-started/windows){ .md-button }
+[:simple-android: Android](/get-started/android/){.md-button}
+[:simple-apple: iOS / macOS](/get-started/app-store){.md-button target=_blank}
+[:simple-linux: Linux](/get-started/linux/){.md-button target=_blank}
+[:material-microsoft-windows: Windows](/get-started/windows){.md-button target=_blank}
 
 ## Setup
 
