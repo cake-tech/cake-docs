@@ -59,7 +59,7 @@ As TOTP becomes more and more common, we feel that it is important to provide us
 ## Enabling Cake 2FA
 
 !!! note
-    Cake 2FA's TOTP implementation requires a [compatible authenticator](/docs/advanced-features/authentication/#what-totp-applications-do-you-recommend)  with support for [SHA-512](/docs/advanced-features/authentication/#why-are-you-using-sha512-my-app-doesnt-support-sha512).
+    Cake 2FA's TOTP implementation requires a [compatible authenticator](#what-totp-applications-do-you-recommend)  with support for [SHA-512](#why-are-you-using-sha512-my-app-doesnt-support-sha512).
 
 To set up Cake 2FA, click on the upper right hamburger menu, then `Security and backup`, then `Set up Cake 2FA`.
 
@@ -125,4 +125,4 @@ We have not yet determined if we want to support HOTP or not.
 
 ## How can I maximize security of both 2FA and Cake Wallet?
 
-For those needing more security we recommend using a TOTP application on a separate device as an additional security precaution, which requires an attacker to gain access to both the device holding Cake Wallet in addition to the authentication device. Additionally, we recommend following the advice in our dedicated [hardening guide.](/docs/tutorials/mobile-hardening)
+For those needing more security we recommend using a TOTP application on a separate device as an additional security precaution, which requires an attacker to gain access to both the device holding Cake Wallet in addition to the authentication device. Additionally, we recommend following the advice in our dedicated [hardening guide.](../../../tutorials/mobile-hardening)

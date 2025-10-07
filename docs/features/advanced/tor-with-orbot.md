@@ -53,7 +53,7 @@ Now, connections over Cake Wallet should use Tor with Orbot.
 
 You can use Tor to connect to either clearnet or onion nodes, but we recommend connecting to an onion node. If an onion node is selected, you will not accidentally sync or send transactions if Orbot is not configured properly, since you cannot make a clearnet connection to an onion address.
 
-To add an onion node, simply [add a custom node](/docs/advanced-features/custom-node) that is an onion node. It will end in `.onion`.
+To add an onion node, simply [add a custom node](../../advanced/custom-node) that is an onion node. It will end in `.onion`.
 
 Our official onion node is:
 
