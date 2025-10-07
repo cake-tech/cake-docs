@@ -2,7 +2,7 @@
 icon: icons/obtainium
 ---
 
-# :icons-Obtainium: Obtainium
+# :icons-obtainium: Obtainium
 
 !!! note ""
     Official Website: [obtainium.imranr.dev](https://obtainium.imranr.dev/){:target="_blank"}
