@@ -7,14 +7,14 @@ icon: material/arrow-right
 
 Cake Wallet is available on Android, iOS, macOS, Linux, and Windows platforms.
 
-[:simple-android: Android](/get-started/android/){ .md-button }
-[:simple-apple: iOS / macOS](/get-started/app-store){ .md-button }
-[:simple-linux: Linux](/get-started/linux/){ .md-button }
-[:material-microsoft-windows: Windows](/get-started/windows){ .md-button }
+[:simple-android: Android](/get-started/android/){.md-button}
+[:simple-apple: iOS / macOS](/get-started/app-store){.md-button target=_blank}
+[:simple-linux: Linux](/get-started/linux/){.md-button target=_blank}
+[:material-microsoft-windows: Windows](/get-started/windows){.md-button target=_blank}
 
 ## Setup
 
-Once you've successfully installed Cake Wallet, you can coninue to [Create your first wallet](./setup/create-first-wallet.md) or [Restore your wallet](./restore/restore-wallet-from-keys-or-seed.md) if you want to import an existing crypto wallet.
+Once you've successfully installed Cake Wallet, you can coninue to [Setup your first wallet](./setup/).
 
 ## Have fun!
 
