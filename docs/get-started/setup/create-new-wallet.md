@@ -21,12 +21,12 @@ Go to the menu at the top-right. Tap on `Wallets`, then tap `Create New Wallet` 
 ## Create the wallet
 Start with a single cryptocurrency type, as you can choose more later.
 
-![Choose asset type](./assets1.png){:width="32%"}
-![Choose asset type](./assets2.png){:width="32%"}
+![Choose asset type](../setup/assets1.png){:width="32%"}
+![Choose asset type](../setup/assets2.png){:width="32%"}
 
 You can create your own wallet name, or you can tap the right icon to generate a random name. This can be changed later.
 
-![Wallet  name](./name.png){:width="32%"}
+![Wallet name](./name.png){:width="32%"}
 
 ## Save your seed phrase!
 

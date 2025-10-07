@@ -31,6 +31,6 @@ Create a new wallet if you are new to crypto or want to start with a fresh walle
 
 Restore an existing wallet if you'd like to keep your funds and addresses of an existing compatible wallet.
 
-Continue the guide through the [Create new wallet](/get-started/setup/create-new-wallet/#create-the-wallet) or [Restore existing wallet](/get-started/setup/restore/index) sections.
+Continue the guide through the [Create new wallet](./create-new-wallet#create-the-wallet) or [Restore existing wallet](/get-started/setup/restore#choose-a-restore-option) sections.
 
 ![Wallet](./setup/wallet.png){:width="32%"}

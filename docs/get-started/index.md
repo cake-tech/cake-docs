@@ -14,7 +14,7 @@ Cake Wallet is available on Android, iOS, macOS, Linux, and Windows platforms.
 
 ## Setup
 
-Once you've successfully installed Cake Wallet, you can coninue to [Create your first wallet](./setup/create-first-wallet.md) or [Restore your wallet](./restore/restore-wallet-from-keys-or-seed.md) if you want to import an existing crypto wallet.
+Once you've successfully installed Cake Wallet, you can coninue to [Setup your first wallet](./setup/).
 
 ## Have fun!
 
