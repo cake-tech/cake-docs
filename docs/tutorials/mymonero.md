@@ -154,7 +154,7 @@ For those who want to preserve their transaction history or have a specific reas
 5. Choose a name for the wallet
 6. Paste or type in the seed phrase from MyMonero wallet that you backed up earlier
     
-    ![Enter your 25-word seed phrase from MyMonero](mymonero/restore_legacy.png){: style="height:750px"}
+    ![Enter your 25-word seed phrase from MyMonero](mymonero/restore_seed_poly.png){: style="height:750px"}
     
 7. Tap the `Polyseed (16 words)` option and change to `Legacy (25 words)`
 
