@@ -13,6 +13,6 @@ The Android version of Cake Wallet is available on:
 <br>
 [:material-google-play: Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet){.md-button target=_blank}
 [:icons-accrescent: Accrescent](accrescent.md){.md-button target=_blank}
-[:icons-Obtainium: Obtainium](obtainium.md){.md-button target=_blank}
+[:icons-obtainium: Obtainium](obtainium.md){.md-button target=_blank}
 [:simple-fdroid: F-Droid](fdroid.md){.md-button target=_blank}
 [:simple-github: GitHub](https://github.com/cake-tech/cake_wallet/releases/latest){.md-button target=_blank}
