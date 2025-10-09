@@ -6,13 +6,13 @@ parent: Service Support
 
 # Buy support
 
-Cake Wallet currently supports Onramper, Robinhood Connect, and DFX for purchasing cryptocurrencies into your wallet.
+Cake Wallet supports a wide range of providers for purchasing cryptocurrencies using fiat currencies like USD, GBP, and Euros.
 
 ## Onramper
 
-We use an [Onramper](https://onramper.com) widget to display most crypto providers. If you have an issue with the widget itself, please contact Cake Wallet support. 
+We use an [Onramper](https://onramper.com) widget to display most crypto providers. If you have an issue with the widget itself, please contact Cake Wallet support.
 
-If you need support with your exchange provider, please find the support info for your provider on the [Onramper Knowledge](https://knowledge.onramper.com/how-can-i-get-help) website.
+If you need support with your exchange provider, please find the support info for your provider on the [Onramper](https://knowledge.onramper.com/how-can-i-get-help) website.
 
 ---
 
@@ -38,3 +38,8 @@ If you need support with your exchange provider, please find the support info fo
 
 [:octicons-link-16: Support website](https://support.moonpay.com/){ .md-button }
 [:octicons-mail-16: Email](mailto:support@moonpay.com){ .md-button }
+
+## Kryptonim
+
+[:octicons-link-16: Support website](https://www.kryptonim.com/help){ .md-button }
+[:octicons-mail-16: Email](mailto:contact@support.kryptonim.com){ .md-button }
