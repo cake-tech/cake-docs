@@ -13,7 +13,7 @@ parent: Basic Features
     ![Click hamburger menu](./step1.png){:width="32%"}
     ![Click wallets](./step2.png){:width="32%"}
     ![Click create new wallet](./step3.png){:width="32%"} -->
-Go to the menu at the top-right. Tap on `Wallets`, then tap `Restore New Wallet` at the bottom of your screen.
+Go to the menu at the top-right. Tap on `Wallets`, then tap `Restore Wallet` at the bottom of your screen.
 
 ![Click hamburger menu](../setup/step1.png){:width="32%"}
 ![Click wallets](../setup/step2.png){:width="32%"}
