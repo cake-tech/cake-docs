@@ -11,7 +11,7 @@ Cupcake contains the private keys for transaction signing, while Cake Wallet has
 
 ## Download
 
-Cupcake can be downloaded from the [App Store](https://apps.apple.com/eg/app/cupcake-by-cake-wallet/id6737430272){:target="_blank"}, [Play Store](https://play.google.com/store/apps/details?id=com.cakewallet.cupcake), and the [GitHub repo](https://github.com/cake-tech/cupcake/releases).
+Cupcake can be downloaded from the [App Store](https://apps.apple.com/eg/app/cupcake-by-cake-wallet/id6737430272){:target="_blank"}, [Play Store](https://play.google.com/store/apps/details?id=com.cakewallet.cupcake), [Accrescent](https://accrescent.app) and the [GitHub repo](https://github.com/cake-tech/cupcake/releases).
 
 Cupcake is currently only supported on iOS and Android.
 
