@@ -205,6 +205,7 @@ nav:
   - tutorials/index.md
   - tutorials/exodus.md
   - tutorials/mymonero.md
+  - tutorials/zashi.md
   - tutorials/find-seed-phrase.md
   - tutorials/mobile-hardening.md
   - Setup a monero node: https://guides.monero.com/docs/tutorials/monero-node/
