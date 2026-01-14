@@ -1,5 +1,7 @@
 # Migrate from Zashi
 
+Digital cash is meant to be simple to use, secure, and private by default, and yet Zcash wallets have been plagued with bad UX, privacy gotchas, and incomplete features from day one. With Zcash in Cake Wallet, all of that changes; from auto-shielding without a tap, automatically rotating transparent and shielded addresses, and a broad suite of features, we’re doing our part to make Zcash all it has promised since 2016.
+
 We know migrating to a new wallet can be a stressful process, so we’ve worked hard to make this migration as seamless as possible for our users. In the following guide, we’ve broken down the migration process from Zashi wallet → Cake Wallet into an easy-to-follow guide, including screenshots of every step of the process.
 
 ## Getting started
@@ -42,6 +44,9 @@ The easiest path is to simply create a new Zcash wallet in Cake Wallet and trans
 
 With a new, 12-word seed, you get a fresh start, faster restoration, and the ability to leverage one backup for all of your favorite cryptocurrency wallets in Cake.
 
+!!! warning
+    As Zashi has implemented a different approach to change addresses than Cake Wallet and other more established Zcash wallets, restoring a Zashi seed phrase in Cake Wallet will not show all funds available. Please create a new wallet in Cake Wallet by following the guide below instead of attempting to restore your 24-word seed phrase from Zashi in Cake Wallet.
+
 ### Creating a new Zcash wallet on Cake
 
 1. Download Cake Wallet [using the links above](#installing-cake-wallet)
@@ -72,15 +77,14 @@ With a new, 12-word seed, you get a fresh start, faster restoration, and the abi
     - Storing your seed in an **end-to-end encrypted** password manager like [Bitwarden](https://bitwarden.com/), [Proton Pass](https://proton.me/pass), or iCloud Keychain
     - Writing it down and keeping it in a **secure place**
     
-!!! warning
-    Do not share these seed words with anyone or store them via screenshots or in an insecure note app, as anyone with access to your seed words has the ability to steal all of your Zcash!
+    !!! warning
+        Do not share these seed words with anyone or store them via screenshots or in an insecure note app, as anyone with access to your seed words has the ability to steal all of your Zcash!
     
-1. Verify your backup by tapping the correct seed words in the order prompted
-2. Tap `Receive` on the bottom dock to display a QR code with a Zcash receive address
+8. Verify your backup by tapping the correct seed words in the order prompted
+9. Tap `Receive` on the bottom dock to display a QR code with a Zcash receive address
     1. Note: If necessary, you can easily copy or share the address by tapping the icon next to the address, then sending to yourself via a messaging app, email, etc. 
 
 ![Tap Receive](zashi/home_receive.png){: style="height:750px"}
-
 ![Copy your address](zashi/receive.png){: style="height:750px"}
 
 ### Send Zcash balance from Zashi
@@ -93,18 +97,21 @@ With a new, 12-word seed, you get a fresh start, faster restoration, and the abi
     
 3. Scan the QR code in Cake Wallet by tapping the QR code icon in the address box, or double tap or hold on the address field to paste in the address
 4. Enter as close to the spendable balance as you can to send the entirety of your Zcash balance to your new Cake Wallet, then tap `Review`
+   1. Unfortunately, Zashi does not support "sweeping" or sending your entire balance at once, so you'll have to do some guess work to see the max amount you can send out while leaving enough for the network fee.
     
     ![Enter address and amount](zashi/zashi_review.png){: style="height:750px"}
-    ![Review](zashi/zashi_send.png){: style="height:750px"}
     
-!!! note
-    Feel free to send a smaller, test transaction to Cake Wallet to test if it helps you feel more comfortable before sending your entire wallet balance!
+    !!! note
+        Feel free to send a smaller, test transaction to Cake Wallet to test if it helps you feel more comfortable before sending your entire wallet balance!
 
-1. Review the details, and then press `Send` when ready
-2. Once you have sent the funds, confirm they show up in your new Zcash wallet in Cake
+5. Review the details, and then press `Send` when ready
+
+    ![Review](zashi/zashi_send.png){: style="height:750px"}
+
+6. Once you have sent the funds, confirm they show up in your new Zcash wallet in Cake
 
 # Using Cake Wallet
 
-Cake Wallet is the user-friendly, multi-asset cryptocurrency wallet that prioritizes financial privacy and autonomy. With seamless swaps, strong privacy tools, and a focus on accessibility, Cake Wallet empowers you to manage, swap, and spend your digital assets securely and confidently. Cake Wallet is also 100% open-source, ensuring that every bit of code is able to be verified and independently reviewed, keeping your crypto safer than ever from attacks or mistakes.
+Users get the full modern Zcash experience, shielded-by-default transactions, rotating transparent addresses, in-app swaps, AnyPay support, and real-world spending through [Cake Pay](https://cakepay.com), all wrapped in a polished interface that has been refined since 2018 through open-source development and real-world use.
 
-Cake Wallet also enables you to easily swap between cryptocurrencies without leaving the app, buy and sell directly from fiat, and even use your crypto to buy every day items and treat yourself with [Cake Pay](https://cakepay.com). It’s your freedom money, and Cake helps free you up to use it in more ways than ever.
+That combination of deep Zcash integration, thoughtful privacy defaults, and proven longevity is what makes Cake Wallet the most advanced Zcash wallet available today.
