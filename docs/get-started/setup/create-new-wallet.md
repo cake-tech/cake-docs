@@ -14,19 +14,19 @@ title: "Create new wallet"
     ![Click create new wallet](./step3.png){:width="32%"} -->
 Go to the menu at the top-right. Tap on `Wallets`, then tap `Create New Wallet` at the bottom of your screen.
 
-![Click hamburger menu](../setup/step1.png){:width="32%"}
-![Click wallets](../setup/step2.png){:width="32%"}
-![Click create new wallet](../setup/step3.png){:width="32%"}
+![Click hamburger menu](setup/step1.png){:width="32%"}
+![Click wallets](setup/step2.png){:width="32%"}
+![Click create new wallet](setup/step3.png){:width="32%"}
 
 ## Create the wallet
 Start with a single cryptocurrency type, as you can choose more later.
 
-![Choose asset type](../setup/assets1.png){:width="32%"}
-![Choose asset type](../setup/assets2.png){:width="32%"}
+![Choose asset type](setup/assets1.png){:width="32%"}
+![Choose asset type](setup/assets2.png){:width="32%"}
 
 You can create your own wallet name, or you can tap the right icon to generate a random name. This can be changed later.
 
-![Wallet name](./name.png){:width="32%"}
+![Wallet name](create-new-wallet/name.png){:width="32%"}
 
 ## Save your seed phrase!
 
@@ -42,8 +42,8 @@ If you need to upgrade to a higher security setup later, you can create a new wa
 
 Proceed through the warning screen, and continue to save and verify your seed phrase. You can copy your seed phrase by tapping the copy button on the top right, or tap the `Save` button to open the system save prompt.
 
-![Choose asset type](./seed1.png){:width="32%"}
-![Choose asset type](./seed2.png){:width="32%"}
+![Choose asset type](create-new-wallet/seed1.png){:width="32%"}
+![Choose asset type](create-new-wallet/seed2.png){:width="32%"}
 
 ## Saving seed with password manager
 

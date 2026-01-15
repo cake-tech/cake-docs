@@ -39,9 +39,9 @@ A Monero subaddress is a unique, unlinkable address that can be generated on-dem
 
 If you want to manually manage your subaddresses, you can do so by going to privacy settings and disabling the "Auto generate subaddresses" feature. Then go to your receive screen. To create a new subaddress, tap on `Accounts and subaddresses`, then tap on `Addresses` and create a name for this address, then tap `Create`. Subaddresses always start with `8`. Your main address starts with `4`.
 
-![New address](/images/receive-4.jpg){:width="32%"}
-![New address name](/images/receive-5.jpg){:width="32%"}
-![Copy address](/images/receive-6.jpg){:width="32%"}
+![New address](/images/receive-4.png){:width="32%"}
+![New address name](/images/receive-5.png){:width="32%"}
+![Copy address](/images/receive-6.png){:width="32%"}
 
 ### Monero accounts
 

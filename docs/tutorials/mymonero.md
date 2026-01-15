@@ -31,10 +31,10 @@ For the best compatibility and easiest setup we recommend using the mobile versi
 
 Please choose one of the options below to get started:
 
-[:simple-android: Android](/get-started/android/){ .md-button }
-[:simple-apple: iOS / macOS](/get-started/app-store){ .md-button }
-[:simple-linux: Linux](/get-started/linux/){ .md-button }
-[:material-microsoft-windows: Windows](/get-started/windows){ .md-button }
+[:simple-android: Android](../get-started/android/){ .md-button }
+[:simple-apple: iOS / macOS](../get-started/app-store){ .md-button }
+[:simple-linux: Linux](../get-started/linux/){ .md-button }
+[:material-microsoft-windows: Windows](../get-started/windows){ .md-button }
 
 ## *Recommended method:* Sending to a new wallet in Cake
 
@@ -80,7 +80,6 @@ This newer seed format is easier to backup and restore (only 16 words, instead o
     1. Note: If necessary, you can easily copy or share the address by tapping the icon next to the address, then sending to yourself via a messaging app, email, etc. 
 
 ![Tap Receive](mymonero/home_receive.png){: style="height:750px"}
-
 ![Copy your address](mymonero/receive.png){: style="height:750px"}
 
 ### Send Monero balance from MyMonero Mobile
@@ -91,16 +90,16 @@ This newer seed format is easier to backup and restore (only 16 words, instead o
     
 2. Tap the Send button at the top right
     
-    ![Tap Send](mymonero/mm_home_send.jpeg){: style="height:750px"}
+    ![Tap Send](mymonero/mm_home_send.png){: style="height:750px"}
     
 3. Scan the QR code in Cake Wallet by tapping `Use Camera`, or tap the address field to paste in the address
 4. Tap `Max` to send the entirety of your Monero balance to your new Cake Wallet, then tap `Send`
     
-    ![Enter address and tap Max](mymonero/mm_send.jpeg){: style="height:750px"}
-    ![Tap Send at the top right](mymonero/mm_send_tap.jpg){: style="height:750px"}
+    ![Enter address and tap Max](mymonero/mm_send.png){: style="height:750px"}
+    ![Tap Send at the top right](mymonero/mm_send_tap.png){: style="height:750px"}
     
-!!! note
-    Feel free to send a smaller, test transaction to Cake Wallet to test if it helps you feel more comfortable before sending your entire wallet balance!
+    !!! note
+        Feel free to send a smaller, test transaction to Cake Wallet to test if it helps you feel more comfortable before sending your entire wallet balance!
 
 5. Enter your wallet password, and tap `Next` to send the transaction
 6. Once you have sent the funds, confirm they show up in your new Monero wallet in Cake
@@ -120,18 +119,18 @@ For those who want to preserve their transaction history or have a specific reas
 
 2. Expand the toggle/drop-down by Address
 
-    ![Expand the secrets dropdown](mymonero/mm_home_dropdown.jpeg){: style="height:750px"}
+    ![Expand the secrets dropdown](mymonero/mm_home_dropdown.png){: style="height:750px"}
 
 3. Confirm that you’re in a safe place and are OK to display your private keys on-screen
 
-!!! warning
-    Do not share these seed words with anyone or store them via screenshots or in an insecure note app, as anyone with access to your seed words has the ability to steal all of your Monero!
+    !!! warning
+        Do not share these seed words with anyone or store them via screenshots or in an insecure note app, as anyone with access to your seed words has the ability to steal all of your Monero!
 
 5. Either tap the copy button, or write down your 25-word seed phrase (in the box labeled `Secret Mnemonic`) in a safe place where you can import it into Cake Wallet in the next section. We recommend a few options:
     - Storing your seed in an **end-to-end encrypted** password manage like Bitwarden, Proton Pass, or iCloud Keychain
     - Writing it down and keeping it in a **secure place**
 
-    ![Copy your Secret Mnemonic](mymonero/mm_copy_seed.jpg){: style="height:750px"}
+    ![Copy your Secret Mnemonic](mymonero/mm_copy_seed.png){: style="height:750px"}
 
 ### Restoring your wallet in Cake Wallet
 

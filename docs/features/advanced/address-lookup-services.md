@@ -57,4 +57,4 @@ Cake Wallet allows you to type in an X username (eg: `@cake`) in the `Send` scre
 
 If (and only if) you type in an X username, then your wallet will communicate directly with the X API.
 
-[![How to send crypto with X using Cake Wallet](https://img.youtube.com/vi/dmj4HF8Q85Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=dmj4HF8Q85Q)
+[![How to send crypto with X using Cake Wallet](https://img.youtube.com/vi/dmj4HF8Q85Q/maxresdefault.png)](https://www.youtube.com/watch?v=dmj4HF8Q85Q)

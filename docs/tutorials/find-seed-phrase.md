@@ -14,15 +14,15 @@ You can follow these simple steps to find your seed phrase. This seed phase can 
 
 2. In the top right corner of the app, you will see a menu button. Click on the menu button.
 
-[![MainScreen](/images/MainScreen-MenuPoint.jpg){:width="32%"}](/images/MainScreen-MenuPoint.jpg)
+[![MainScreen](/images/MainScreen-MenuPoint.png){:width="32%"}](/images/MainScreen-MenuPoint.png)
 
 3. From the menu options, select "Security and backup".
 
-[![Menu](/images/Menu-SecurityPoint.jpg){:width="32%"}](/images/Menu-SecurityPoint.jpg)
+[![Menu](/images/Menu-SecurityPoint.png){:width="32%"}](/images/Menu-SecurityPoint.png)
 
 4. Now choose "show seed/keys."
 
-[![SecurityMenu](/images/Security-SeedPoint.jpg){:width="32%"}](/images/Security-SeedPoint.jpg)
+[![SecurityMenu](/images/Security-SeedPoint.png){:width="32%"}](/images/Security-SeedPoint.png)
 
 5. You will be prompted to enter your wallet pin, password, or biometrics.
 

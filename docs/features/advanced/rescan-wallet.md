@@ -12,12 +12,12 @@ If your XMR transaction is still not appearing and the sync state of the wallet 
 
 ## To rescan your wallet
 
-[![Click hamburger menu](/images/rescan-1.jpg){:width="32%"}](/images/rescan-1.jpg)
+[![Click hamburger menu](/images/rescan-1.png){:width="32%"}](/images/rescan-1.png)
 [![Click Connection and sync](/images/rescan-2.png){:width="31.1%"}](/images/rescan-2.png)
 [![Click rescan](/images/rescan-2.1.png){:width="31.1%"}](/images/rescan-2.1.png)
-[![Add restore height](/images/rescan-3.jpg){:width="32%"}](/images/rescan-3.jpg)
-[![Wait for wallet to sync](/images/rescan-4.jpg){:width="32%"}](/images/rescan-4.jpg)
-[![Wallet synchronized](/images/rescan-5.jpg){:width="32%"}](/images/rescan-5.jpg)
+[![Add restore height](/images/rescan-3.png){:width="32%"}](/images/rescan-3.png)
+[![Wait for wallet to sync](/images/rescan-4.png){:width="32%"}](/images/rescan-4.png)
+[![Wallet synchronized](/images/rescan-5.png){:width="32%"}](/images/rescan-5.png)
 
 Enter a date or a block height from about a week before you created this wallet. So, if it was created in February 2020 sometime, you could use January 31st, 2020 as the 'restore from date.' Alternatively, you can look at your wallet's very first transaction, and it will tell you the "Height" it was included in. You can enter this very same number as your "Block height" when you Rescan, and it will work perfectly.
 
