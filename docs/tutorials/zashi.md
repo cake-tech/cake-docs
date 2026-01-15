@@ -33,10 +33,10 @@ For the best compatibility and easiest setup we recommend using the mobile versi
 
 Please choose one of the options below to get started:
 
-[:simple-android: Android](/get-started/android/){ .md-button }
-[:simple-apple: iOS / macOS](/get-started/app-store){ .md-button }
-[:simple-linux: Linux](/get-started/linux/){ .md-button }
-[:material-microsoft-windows: Windows](/get-started/windows){ .md-button }
+[:simple-android: Android](..../get-started/android/){ .md-button }
+[:simple-apple: iOS / macOS](../get-started/app-store){ .md-button }
+[:simple-linux: Linux](../get-started/linux/){ .md-button }
+[:material-microsoft-windows: Windows](../get-started/windows){ .md-button }
 
 ## *Recommended method:* Sending to a new wallet in Cake
 

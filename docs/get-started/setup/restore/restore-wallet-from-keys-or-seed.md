@@ -27,8 +27,8 @@ If you choose Monero, Ethereum, Nano, or Haven, you can restore your wallet from
 
 To swap from `Restore from seed` to `Restore from keys`, tap the corresponding tabs at the top.
 
-![Swipe left to right](seed.png){:width="32%"}
-![Click restore](keys.png){:width="32%"}
+![Swipe left to right](restore-wallet-from-keys-or-seed/seed.png){:width="32%"}
+![Click restore](restore-wallet-from-keys-or-seed/keys.png){:width="32%"}
 
 Then above, paste the seed phrase (or keys), choose the "Seed language", and enter the blockheight from when you created the wallet (if applicable).
 
@@ -36,5 +36,5 @@ If you do not know the blockheight, please enter a date from a few days before y
 
 For example, if you created your wallet in Feburary 2020, you could use January 31st, 2020 as the `Restore from date` input. After that, press the `Restore` button and leave your phone awake with the Cake Wallet app open, while your wallet completes synchronization.
 
-![Restore from seed](filled.png){:width="32%"}
-![Syncing](dashboard.png){:width="32%"}
+![Restore from seed](restore-wallet-from-keys-or-seed/filled.png){:width="32%"}
+![Syncing](restore-wallet-from-keys-or-seed/dashboard.png){:width="32%"}

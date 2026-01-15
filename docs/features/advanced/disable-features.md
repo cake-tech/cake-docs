@@ -25,10 +25,10 @@ You can alternatively select "Tor-only".
 
 ## Disabling in settings
 
-[![Privacy settings](/images/settings-privacy-1.jpg){:width="32%"}](/images/settings-privacy-1.jpg)
-[![Privacy settings](/images/settings-privacy-2.jpg){:width="32%"}](/images/settings-privacy-2.jpg)
+[![Privacy settings](/images/settings-privacy-1.png){:width="32%"}](/images/settings-privacy-1.png)
+[![Privacy settings](/images/settings-privacy-2.png){:width="32%"}](/images/settings-privacy-2.png)
 
 ## Disabling in Advanced Privacy Settings
 
-[![Advanced Privacy Settings](/images/new-wallet-4-aps-1.jpg){:width="32%"}](/images/new-wallet-4-aps-1.jpg)
-[![Advanced Privacy Settings](/images/new-wallet-4-aps-2.jpg){:width="32%"}](/images/new-wallet-4-aps-2.jpg)
+[![Advanced Privacy Settings](/images/new-wallet-4-aps-1.png){:width="32%"}](/images/new-wallet-4-aps-1.png)
+[![Advanced Privacy Settings](/images/new-wallet-4-aps-2.png){:width="32%"}](/images/new-wallet-4-aps-2.png)

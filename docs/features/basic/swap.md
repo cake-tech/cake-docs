@@ -35,9 +35,9 @@ Cake will compose the transaction, show final screen with all details right befo
 
 ## You can watch our YouTube tutorials here:
 
-[![How to exchange BTC and XMR video](https://img.youtube.com/vi/u16CwdtRQ4g/maxresdefault.jpg)](https://www.youtube.com/watch?v=6juLQPvOQnQ&t=1s)
-[![How to exchange BTC and XMR video](https://img.youtube.com/vi/u16CwdtRQ4g/maxresdefault.jpg)](https://www.youtube.com/watch?v=u16CwdtRQ4g)
-[![How to exchange BTC and XMR video](https://img.youtube.com/vi/pbQD7McNTxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pbQD7McNTxc)
+[![How to exchange BTC and XMR video](https://img.youtube.com/vi/u16CwdtRQ4g/maxresdefault.png)](https://www.youtube.com/watch?v=6juLQPvOQnQ&t=1s)
+[![How to exchange BTC and XMR video](https://img.youtube.com/vi/u16CwdtRQ4g/maxresdefault.png)](https://www.youtube.com/watch?v=u16CwdtRQ4g)
+[![How to exchange BTC and XMR video](https://img.youtube.com/vi/pbQD7McNTxc/maxresdefault.png)](https://www.youtube.com/watch?v=pbQD7McNTxc)
 
 ## Supported swap assets
 

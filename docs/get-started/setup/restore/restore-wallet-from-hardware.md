@@ -43,4 +43,4 @@ Then tap `Next`, and you will be in a view mode of your hardware wallet's accoun
 ![Balance screen](./hardware-wallet/restore-9.png){:width="32%"}
 
 ## Tutorial video
-[![How to Use Your Ledger With Cake Wallet](https://img.youtube.com/vi/jExAUzETuuo/maxresdefault.jpg)](https://youtu.be/jExAUzETuuo)
+[![How to Use Your Ledger With Cake Wallet](https://img.youtube.com/vi/jExAUzETuuo/maxresdefault.png)](https://youtu.be/jExAUzETuuo)

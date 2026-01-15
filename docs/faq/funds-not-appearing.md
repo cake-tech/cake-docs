@@ -7,14 +7,14 @@ parent: FAQ
 
 Your wallet must be fully synchronized before it displays the correct balance. You should see a `SYNCHRONIZED` label in the rounded bar at the top of your screen.
 
-[![Synchronized](/images/funds-1.jpg)](/images/funds-1.jpg)
+[![Synchronized](/images/funds-1.png)](/images/funds-1.png)
 
 If you see "XXXX blocks remaining" this means that your wallet is still synchronizing. Please wait until it is fully synchronized. If your wallet already displays `SYNCHRONIZED`, you can try [rescanning](../../features/advanced/rescan-wallet/) by opening the menu at the top-right, tapping `Rescan`, and setting a date from about a week before the wallet's first transaction.
 
 {: .warning}
 [Rescanning](../../features/advanced/rescan-wallet/) will remove any saved transaction keys and destination addresses, which may be useful for proving payments.
 
-[![Syncing](/images/funds-2.jpg)](/images/funds-2.jpg)
+[![Syncing](/images/funds-2.png)](/images/funds-2.png)
 
 If the wallet says `SYNCHRONIZED` at the top and you don't see your transactions, first try force closing and re-opening your wallet, which forces a rescan.
 

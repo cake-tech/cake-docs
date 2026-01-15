@@ -15,9 +15,9 @@ Easily create invoices for the exact amount you wish to be paid. You can specify
 
 Click "Receive" on the home screen, then click at the top to change "Mainnet" to "Trocador AnonPay Invoice".
 
-[![Click Receive](/images/receive-1.jpg){:width="32%"}](/images/receive-1.jpg)
-[![Click top](/images/anonpay-receive-screen.jpg){:width="32%"}](/images/anonpay-receive-screen.jpg)
-[![Change to Trocador](/images/anonpay-receive-invoice.jpg){:width="32%"}](/images/anonpay-receive-invoice.jpg)
+[![Click Receive](/images/receive-1.png){:width="32%"}](/images/receive-1.png)
+[![Click top](/images/anonpay-receive-screen.png){:width="32%"}](/images/anonpay-receive-screen.png)
+[![Change to Trocador](/images/anonpay-receive-invoice.png){:width="32%"}](/images/anonpay-receive-invoice.png)
 
 The only mandatory field is the invoice amount. It will default to the cryptocurrency wallet type that you are currently in. You can change this to another fiat currency if you like by clicking on the asset name. The minimum and maximum supported invoice amounts are shown.
 
@@ -27,9 +27,9 @@ You will be shown a screen with clearnet and onion links, and a clearnet QR code
 
 You can access the invoice status in the Transactions list, to the right of the home screen.
 
-[![Fill in forum details](/images/anonpay-invoice-forum.jpg){:width="32%"}](/images/anonpay-invoice-forum.jpg)
-[![Copy or share the invoice link](/images/anonpay-invoice-qr.jpg){:width="32%"}](/images/anonpay-invoice-qr.jpg)
-[![Check invoice status in Transactions screen](/images/anonpay-invoice-transactions.jpg){:width="32%"}](/images/anonpay-invoice-transactions.jpg)
+[![Fill in forum details](/images/anonpay-invoice-forum.png){:width="32%"}](/images/anonpay-invoice-forum.png)
+[![Copy or share the invoice link](/images/anonpay-invoice-qr.png){:width="32%"}](/images/anonpay-invoice-qr.png)
+[![Check invoice status in Transactions screen](/images/anonpay-invoice-transactions.png){:width="32%"}](/images/anonpay-invoice-transactions.png)
 
 ## Create donation links
 
@@ -37,16 +37,16 @@ Easily create reusable donation links. A donor can donate with any supported cry
 
 Click "Receive" on the home screen, then click at the top to change "Mainnet" to "Trocador AnonPay Donation Link".
 
-[![Click Receive](/images/receive-1.jpg){:width="32%"}](/images/receive-1.jpg)
-[![Click top](/images/anonpay-receive-screen.jpg){:width="32%"}](/images/anonpay-receive-screen.jpg)
-[![Change to Trocador](/images/anonpay-receive-donation.jpg){:width="32%"}](/images/anonpay-receive-donation.jpg)
+[![Click Receive](/images/receive-1.png){:width="32%"}](/images/receive-1.png)
+[![Click top](/images/anonpay-receive-screen.png){:width="32%"}](/images/anonpay-receive-screen.png)
+[![Change to Trocador](/images/anonpay-receive-donation.png){:width="32%"}](/images/anonpay-receive-donation.png)
 
 You can optionally provide a recipient name, description, and payee notification email. These are shown to the donor. We recommend that you provide an email if you want to receive a notification when people donate. **Note: your email will be shared with donors, since it appears in the donation link.** When done, click "Create donation link".
 
 You will be shown a screen with clearnet and onion links, and a clearnet QR code. Share these with the donor. The donor will be presented with a payment portal to complete their donation at the link.
 
-[![Fill in forum details](/images/anonpay-donation-forum.jpg){:width="32%"}](/images/anonpay-donation-forum.jpg)
-[![Copy or share the invoice link](/images/anonpay-donation-qr.jpg){:width="32%"}](/images/anonpay-donation-qr.jpg)
+[![Fill in forum details](/images/anonpay-donation-forum.png){:width="32%"}](/images/anonpay-donation-forum.png)
+[![Copy or share the invoice link](/images/anonpay-donation-qr.png){:width="32%"}](/images/anonpay-donation-qr.png)
 
 ### Reusing and editing the donation link
 
